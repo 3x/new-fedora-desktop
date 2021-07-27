@@ -81,7 +81,7 @@ I recommend the `zsh` shell, `oh-my-zsh` for managing themes and plugins, and th
 
 Open the `Terminal` app and execute this command to install `oh-my-zsh`:
 ```shell
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 `oh-my-zsh` will prompt you to change your default shell to `zsh`.
 
